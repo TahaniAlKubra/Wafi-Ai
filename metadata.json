@@ -1,0 +1,6 @@
+{
+  "name": "وافي (Wafi) - رفيقك الذكي للمذاكرة",
+  "description": "تطبيق تعليمي تفاعلي مدعوم بالذكاء الاصطناعي لتحليل ملفات PDF وتحويلها إلى ملخصات، بطاقات استذكار، اختبارات تشخيصية، وجرعات علاجية مع معلم خصوصي ذكي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
